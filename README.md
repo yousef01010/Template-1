@@ -1,3 +1,3 @@
 # Template-1
 ## The first template, using Hmtl and Css 
-### responsive website with a modern and minimalist design  
+a full responsive website for most of the devices and has a  modern look and minimalist design .
